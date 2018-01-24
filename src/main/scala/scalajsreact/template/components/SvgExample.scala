@@ -14,7 +14,7 @@ import scalacss.ScalaCssReact._
 import scalacss.internal.mutable.{GlobalRegistry, StyleSheet}
 
 //noinspection TypeAnnotation
-object Example {
+object SvgExample {
 
   /*
    * This object corresponds to css in normal js. Each val here generates a css class, eg. Item3Data_Style-paragraph.

@@ -5,7 +5,7 @@ import scalacss.ScalaCssReact._
 import japgolly.scalajs.react._
 import japgolly.scalajs.react.vdom.html_<^._
 
-import scalajsreact.template.components.Example
+import scalajsreact.template.components.SvgExample
 
 object HomePage {
 
@@ -34,7 +34,7 @@ object HomePage {
           Style.content,
           "This is the Homepage component, which renders the Example component below"
         ),
-        Example()
+        SvgExample()
       ))
       .build
 
