@@ -1,14 +1,14 @@
-scalajs-react-template
+scalajs-react-practice
 ======================
 
-Basic skeleton app for scalajs-react and scalacss
+Based on scalajs-react-template from [scalajs-react-template](https://github.com/chandu0101/scalajs-react-template)
 
-### Launch this project:
+### Getting started:
 
 1. clone the project
 
 2. In the project directory run:
 `sbt ~fastOptJS`
 
-3. On your browser go to:
-http://localhost:12345/index.html
+3. In a browser (eg. Chrome), open:
+http://localhost:12345/index-dev.html
